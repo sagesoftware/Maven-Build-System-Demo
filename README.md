@@ -4,10 +4,11 @@
 <!-- These badges are auto-updated by the CI pipeline on every push.     -->
 <!-- Replace YOUR_USERNAME/YOUR_REPO with your actual GitHub path.       -->
 
-![Build Status](https://github.com/UHSETeaching/Maven-Build-System-Demo/actions/workflows/ci.yml/badge.svg)
-![Coverage](https://github.com/UHSETeaching/Maven-Build-System-Demo/raw/gh-pages/.badges/jacoco.svg)
-![Branches](https://github.com/UHSETeaching/Maven-Build-System-Demo/raw/gh-pages/.badges/branches.svg)
+![Build Status](https://github.com/sagesoftware/Maven-Build-System-Demo)
+![Coverage](https://github.com/sagesoftware/Maven-Build-System-Demo)
+![Branches](https://github.com/sagesoftware/Maven-Build-System-Demo)
 
+hi
 A simple Java project that demonstrates core Maven (build system) concepts and CI/CD with GitHub Actions.
 
 ## Project Structure (Maven Standard Layout)
